@@ -1,0 +1,22 @@
+html{
+    background: #9575DE;
+}
+h1{
+    text-align:center;
+    color: #2b2730;
+    background-color:#FFF5E0 ;
+    
+    font-family: 'Cormorant', serif;
+ 
+    font-family: 'Source Serif 4', serif;
+    
+}
+img{
+    width:100%;
+    border:5px solid #cecdd5;
+    margin:20px
+}
+div{
+    width:50%;
+    margin-left:25%
+}
